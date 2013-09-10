@@ -14,3 +14,6 @@ See the [Statutes Help](http://docs.legis.wisconsin.gov/document/help/statutes) 
 See the [Coverage of Annotations table](http://docs.legis.wisconsin.gov/document/statutes/coverage) for annotation coverage details.
 
 [Ebook versions of the Updated Statutes and Annotations are also available](https://docs.legis.wisconsin.gov/ebook/statutes) for downloading to mobile devices and computers.
+
+
+Information found at: http://docs.legis.wisconsin.gov/statutes/prefaces/toc
