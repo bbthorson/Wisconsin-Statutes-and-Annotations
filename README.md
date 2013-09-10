@@ -1,4 +1,4 @@
-Wisconsin-Statutes-and-Annotations
+Wisconsin Statutes and Annotations
 ==================================
 
 The electronic updated Wisconsin Statutes are published under s. 35.18 (1) (b), stats., are certified under s. 35.18 (2) (b), stats., and are prima facie evidence that they are the Wisconsin Statutes "as they purport to be" under s. 889.01, stats.
